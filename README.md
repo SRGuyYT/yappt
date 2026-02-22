@@ -1,4 +1,4 @@
-# YouTube UI Clone (Local-only)
+# Yappt
 
 Modern YouTube-inspired UI built with Next.js App Router, TypeScript, and Tailwind CSS.
 
