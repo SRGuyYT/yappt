@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "YouTube Clone UI",
-  description: "A modern local-only YouTube-inspired interface built with Next.js",
+  title: "Yappt",
+  description: "A clone of youtube called Yappt",
 };
 
 export default function RootLayout({
